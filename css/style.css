@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/bg-2.png")
+}
+
+header div{
+    background-color: red;
+}
+
+header li a{
+    color: white;
+}
