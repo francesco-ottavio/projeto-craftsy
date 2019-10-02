@@ -2,10 +2,51 @@ body{
     background-image: url("../img/bg-2.png")
 }
 
+header{
+    margin-bottom: 20px;
+}
+
 header div{
     background-color: red;
 }
 
 header li a{
     color: white;
+}
+
+section div.coluna-1,.coluna-2{
+    background-color: white;
+}
+
+section div.coluna-3{
+    margin-left: 10px;
+    padding-right: 0;
+}
+
+.aside-titulo{
+    background-color: white;
+}
+
+.aside-titulo h2{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.aside-tutorial{
+    background-color: white;
+    margin-bottom: 4px;
+}
+
+.img-tutorial{
+    margin: 5px;
+}
+
+.aside-publicidade{
+    background-color: white;
+}
+
+.aside-publicidade img{
+    padding: 10px 0 10px 28px;
 }
